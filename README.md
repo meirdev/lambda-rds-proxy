@@ -1,4 +1,4 @@
-# Lambda, RDS and RDS Proxy
+# Lambda, RDS and RDS Proxy with Terraform
 
 Terraform module to create a Lambda function, RDS instance of PostgreSQL and RDS Proxy.
 
